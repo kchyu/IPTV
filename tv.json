@@ -1,0 +1,11 @@
+{
+  "lives": [
+    {
+      "name": "我的M3U直播源",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/kchyu/IPTV/refs/heads/main/cqtv.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/{name}.xml",
+      "logo": "http://example.com/logo/{name}.png"
+    }
+  ]
+}
